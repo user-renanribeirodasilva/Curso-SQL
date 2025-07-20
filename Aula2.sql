@@ -1,4 +1,4 @@
-### 🧠 **Exercício 4 — Alterações em Tabela (ALTER & DROP)**
+### **Exercício 4 — Alterações em Tabela (ALTER & DROP)**
 
 Utilizando a tabela `Funcionario` já criada, realize as seguintes modificações:
 
@@ -6,6 +6,8 @@ Utilizando a tabela `Funcionario` já criada, realize as seguintes modificaçõe
 2. Adicione uma nova coluna chamada `s_email_funcionario`, que deve aceitar até 100 caracteres.
 3. Remova a coluna `ca_cargofuncionario_funcionario`.
 4. Por fim, **remova a tabela** `Funcionario` do banco de dados.
+
+### Resolução:
 
 USE aula1_lojavirtual;
 
